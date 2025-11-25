@@ -1,0 +1,1 @@
+# Key-finding-in-given-arrey-only-integer
